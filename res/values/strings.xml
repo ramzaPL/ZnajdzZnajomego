@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ZnajdzZnajomego</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_Map">ZnajdzZnajomego</string>
+    <string name="title_activity_reg">ZnajdzZnajomego</string>
+    <string name="title_activity_kontkaty">ZnajdzZnajomego - Kontkaty</string>
+    <string name="read_comments_title">read_comments_title</string>
+
+</resources>
